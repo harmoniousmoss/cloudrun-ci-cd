@@ -2,7 +2,7 @@
 
 ## Overview
 
-This tutorial provides a step-by-step guide to setting up a CI/CD pipeline for automated Docker deployment to Google Cloud Run. By leveraging Google Cloud Build and GitHub Actions, we will automate the process of building, testing, and deploying containerized applications to Cloud Run. This ensures a seamless and efficient deployment workflow.
+This tutorial provides a step-by-step guide to setting up a CI/CD pipeline for automated Docker deployment to Google Cloud Run. By leveraging Google Cloud Build, we will automate the process of building, testing, and deploying containerized applications to Cloud Run. This ensures a seamless and efficient deployment workflow.
 
 ## Prerequisites
 
